@@ -60,3 +60,18 @@ header{
     nav ul li a:hover {
         text-decoration: underline;
     }
+    .about-detail{
+        font-size: x-large;
+        text-align: center;
+        height: 600px;
+        background-color: white;
+        background-image: url(bg6.jpg);
+        background-size: cover;
+        background-position: center;
+        padding: 60px;
+    }
+        
+    .about-detail p {
+        font-style: italic;
+        justify-content: center;
+    }
