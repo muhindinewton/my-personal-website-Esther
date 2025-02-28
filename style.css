@@ -96,5 +96,35 @@ header{
         margin-bottom: 20px;
         
     }
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px; 
+        background-image: url(bg6.jpg);
+        background-size: cover;
+        background-position: center;
+        padding: 10px;
+    }
+    .contact-container {
+        font-size: 80%;
+        text-align: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 50px;
+        background-image: url(bg6.jpg);
+        background-size: cover;
+        background-position: center;
+        padding: 100px
+    
+    }
+    .contact-container p{
+       font: 100; 
+       color: black;
+       font-size: 1.5rem;
+    }
+    h3{
+        font-size: 3rem;
+    }
 
 
