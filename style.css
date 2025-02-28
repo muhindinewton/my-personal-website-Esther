@@ -126,5 +126,16 @@ header{
     h3{
         font-size: 3rem;
     }
+    .footer {
+        background-color: #333;
+        text-align: center;
+        position: relative;
+        bottom: 0;
+        width: 90%;
+        
+      }
+      .footer p {
+        color: #fff;
+      }
 
 
