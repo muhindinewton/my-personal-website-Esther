@@ -101,7 +101,7 @@ header{
         flex-wrap: wrap;
         justify-content: center;
         gap: 20px; 
-        background-image: url(bg6.jpg);
+        background-image: url(images/bg6.jpg);
         background-size: cover;
         background-position: center;
         padding: 10px;
@@ -112,7 +112,7 @@ header{
         background-size: cover;
         background-repeat: no-repeat;
         padding: 50px;
-        background-image: url(bg6.jpg);
+        background-image: url(images/bg6.jpg);
         background-size: cover;
         background-position: center;
         padding: 100px
